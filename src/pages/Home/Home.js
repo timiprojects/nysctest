@@ -1,5 +1,4 @@
 import _ from 'lodash'
-import faker from 'faker'
 import React, { Component } from 'react'
 import { Input, List, Image, Card, Form, Radio } from 'semantic-ui-react'
 
