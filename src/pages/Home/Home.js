@@ -58,7 +58,7 @@ const source = [
         title: 'Khaki Trouser',
         has: 'small',
         want: 'large',
-        image: '/img/khaki_trouser.jpg',
+        image: '/img/khai_trouser.jpg',
     },
     {
         id: 8,
